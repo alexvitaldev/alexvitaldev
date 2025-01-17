@@ -1,4 +1,4 @@
-## Alex Vital | Software Engineer | Flutter | Android | IOS
+## Alex Vital -> Software Engineer | Flutter | Android | IOS
 ```kotlin
 val developer = SoftwareEngineer(
     name = "Alex Vital",
