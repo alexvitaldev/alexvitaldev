@@ -10,8 +10,6 @@ val developer = SoftwareEngineer(
     ),
     skills = listOf("Kotlin", "Flutter", "Swift", "Jetpack Compose", "Mobile Development", "Software Architecture", "Agile Methodologies"),
     interests = listOf("Open Source Contributions", "Scalable App Design", "UI/UX Innovation", "Cross-Platform Solutions", "Technical Leadership"),
-    motto = "Turning complex ideas into user-friendly mobile solutions."
+    mission = "Turning complex ideas into user-friendly mobile solutions."
 )
-
-println(developer)
 ```
